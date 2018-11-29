@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/CdOrganizer.Tests.deps.json
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/CdOrganizer.Tests.runtimeconfig.json
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/CdOrganizer.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/obj/Debug/netcoreapp1.1/CdOrganizer.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/CdOrganizer.Tests.dll
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/CdOrganizer.Tests.pdb
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/CdOrganizer.dll
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/bin/Debug/netcoreapp1.1/CdOrganizer.pdb
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/obj/Debug/netcoreapp1.1/CdOrganizer.Tests.dll
+/Users/Guest/Desktop/CdOrganizer.Solution/CdOrganizer.Tests/obj/Debug/netcoreapp1.1/CdOrganizer.Tests.pdb
