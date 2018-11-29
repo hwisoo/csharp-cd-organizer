@@ -40,6 +40,25 @@ namespace CdOrganizer.Controllers
       return View(model);
     }
 
+    [HttpGet("/artists/search")]
+    public ActionResult Search()
+    {
+      return View();
+    }
+
+    [HttpPost("/artists/search")]
+    public ActionResult Search(string searchName)
+    {
+     Dictionary<string, object> model = new Dictionary<string, object>();
+      Artist foundArtist = Artist.Search(searchName);
+      List<Album> foundAlbums = foundArtist.GetAlbums();
+      model.Add("artist", foundArtist);
+      model.Add("albums", foundAlbums);
+      return View("Show", model);
+    }
+
+    
+
     // This one creates new albums for a given artist, not new artists:
     [HttpPost("/artists/{artistId}/albums")]
     public ActionResult Create(int artistId, string albumDescription)

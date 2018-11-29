@@ -42,6 +42,22 @@ namespace CdOrganizer.Models
       return _instances[searchId-1];
     }
 
+    public static Artist Search(string searchName)
+    {
+      string temp = "";
+      Artist tempArtist = new Artist(temp);
+      foreach(Artist artist in _instances)
+      {
+        if(searchName == artist.GetName())
+        {
+          tempArtist= artist;
+        
+        }
+      }
+      return tempArtist;
+      
+    }
+
     public List<Album> GetAlbums()
     {
         return _albums;
